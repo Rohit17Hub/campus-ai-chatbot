@@ -1,0 +1,12 @@
+data/
+*.db
+.env
+*.env
+**/__pycache__/
+**/.venv/
+
+# Test outputs
+tests/*.log
+tests/*.out
+*.pyc
+.pytest_cache/
